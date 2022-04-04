@@ -9,7 +9,7 @@ Download the dataset from one of these places:
 
 Reddit archive: https://storage.googleapis.com/justin_bassett/place_tiles
 
-IPFS: https://ipfs.io/ipfs/Qmbqvdaq5yLaz1fPCN2wYywotieAnhJc2rNCenuvnTQ8Ei?filename=rplace_2017_tile_placements.csv
+IPFS: https://ipfs.io/ipfs/QmYxt62Q4Te6W8rrK6LXr2hm1sAuf6tuzfoggvtfMF7D9u?filename=rplace_2017_tile_placements.7z
 
 Then create a folder called data on this repo, and place the file there.
 
