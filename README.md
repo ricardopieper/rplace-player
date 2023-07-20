@@ -9,8 +9,6 @@ Download the dataset from one of these places:
 
 Reddit archive: https://storage.googleapis.com/justin_bassett/place_tiles
 
-IPFS: https://ipfs.io/ipfs/QmYxt62Q4Te6W8rrK6LXr2hm1sAuf6tuzfoggvtfMF7D9u?filename=rplace_2017_tile_placements.7z
-
 Then create a folder called data on this repo, and place the file there.
 
 Run `ffmpeg_render.sh` to render. You need ffmpeg installed and on PATH. Check https://www.youtube.com/watch?v=FWT4d8bwOnU for a demo.
